@@ -1,0 +1,4 @@
+app_name: "WebRTC"
+port: 8080
+jwt_key: "M8QGVtP77KZqc3QNWptPec3qc0Dt7e7PeiwyfLwwMo6"
+jwt_expires: 3600
